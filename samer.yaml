@@ -77,7 +77,18 @@ rules:
 
 ##在线IP段转CIDR地址：http://ip2cidr.com
 
-
+- DOMAIN-SUFFIX,baidu.com,DIRECT
+- DOMAIN-SUFFIX,qq.com,DIRECT
+- DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+- DOMAIN-SUFFIX,wechat.com,DIRECT
+##uu远程官网
+- DOMAIN-SUFFIX,uuyc.163.com,DIRECT
+##uu远程下载
+- DOMAIN-SUFFIX,netease.com,DIRECT
+##uu远程连接
+- DOMAIN-SUFFIX,gzwenyue.com,DIRECT
+##uu远程他人
+- DOMAIN-SUFFIX,sxy.gzwenyue.com,DIRECT
 
 
 
