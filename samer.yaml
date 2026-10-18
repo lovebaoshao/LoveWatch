@@ -80,6 +80,7 @@ rules:
 
 
 
+- DOMAIN-SUFFIX,baidu.com,DIRECT
 - DOMAIN-SUFFIX,qq.com,DIRECT
 - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
 - DOMAIN-SUFFIX,wechat.com,DIRECT
