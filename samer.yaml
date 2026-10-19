@@ -3,12 +3,12 @@
 ##    type: http
 ##    behavior: classical
 ##    format: yaml
-##    url: "https://raw.githubusercontent.com/你的用户名/clash-rules/main/direct.yaml"
+##    url: "https://raw.githubusercontent.com/lovebaoshao/LoveWatch/refs/heads/main/samer.yaml"
 ##    path: ./rule_provider/my-direct.yaml
 ##    interval: 3600
 
-rules:
-  - RULE-SET,my-direct,DIRECT
+##rules:
+##  - RULE-SET,my-direct,DIRECT
 
 
 payload:
