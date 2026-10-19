@@ -16,7 +16,8 @@ payload:
 - DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,weixin.qq.com
 - DOMAIN-SUFFIX,wechat.com
-
+##uu远程官网
+- DOMAIN-SUFFIX,uuyc.163.com
 ##uu远程下载
 - DOMAIN-SUFFIX,netease.com
 ##uu远程连接
