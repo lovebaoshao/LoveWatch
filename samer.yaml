@@ -26,8 +26,8 @@ payload:
 - DOMAIN-SUFFIX,sxy.gzwenyue.com
 ##codex
 - DOMAIN-SUFFIX,huanyuaaii.cn
-##搜狗
-- DOMAIN-SUFFIX,sogou.com
+##新浪
+- DOMAIN-SUFFIX,sina.com.cn
 
 
 
