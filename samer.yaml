@@ -17,17 +17,14 @@ payload:
 - DOMAIN-SUFFIX,weixin.qq.com
 - DOMAIN-SUFFIX,wechat.com
 ##uu远程官网
-- DOMAIN-SUFFIX,uuyc.163.com
+- DOMAIN-SUFFIX,163.com
 ##uu远程下载
 - DOMAIN-SUFFIX,netease.com
 ##uu远程连接
 - DOMAIN-SUFFIX,gzwenyue.com
 ##uu远程他人
-- DOMAIN-SUFFIX,sxy.gzwenyue.com
-##codex
-##- DOMAIN-SUFFIX,huanyuaaii.cn
-##新浪
-##- DOMAIN-SUFFIX,sina.com.cn
+- DOMAIN-SUFFIX,gzwenyue.com
+
 
 
 
