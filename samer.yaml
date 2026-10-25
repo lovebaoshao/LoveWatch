@@ -23,6 +23,7 @@ payload:
 ##uu远程连接
 - DOMAIN-SUFFIX,gzwenyue.com
 
+- IP-SUFFIX,123.58.184.232:80
 
 
 
