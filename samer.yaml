@@ -21,8 +21,6 @@ payload:
 ##uu远程下载
 - DOMAIN-SUFFIX,netease.com
 ##uu远程连接
-- DOMAIN-SUFFIX,gzwenyue.com
-
 - IP-CIDR,123.58.184.232/32
 
 
