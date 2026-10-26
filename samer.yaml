@@ -35,6 +35,7 @@ payload:
 #- IP-CIDR,162.128.71.102/32
 #接口api
 - DOMAIN-SUFFIX,samercheers.com
+- IP-CIDR,43.161.195.169/32
 
 
 
