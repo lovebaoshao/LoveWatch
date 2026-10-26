@@ -44,7 +44,7 @@ payload:
 #接口api
 - DOMAIN-SUFFIX,samercheers.com
 - IP-CIDR,43.161.0.0/16,no-resolve
-
+- DOMAIN-SUFFIX,netease.im
 
 
 
