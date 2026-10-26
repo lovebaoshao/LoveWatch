@@ -30,6 +30,11 @@ payload:
 - IP-CIDR,120.233.10.229/32
 #阿里云
 - DOMAIN-SUFFIX,aliyun.com
+#首玺的uu远程
+- IP-CIDR,103.49.62.142/32
+- IP-CIDR,162.128.71.102/32
+#接口api
+- DOMAIN-SUFFIX,samercheers.com
 
 
 
