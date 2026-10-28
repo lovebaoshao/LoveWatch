@@ -40,8 +40,8 @@ payload:
 - IP-CIDR,123.58.184.232/32
 - IP-CIDR,42.186.225.155/32
 #接口api(dns嗅探也需要)
-- DOMAIN-SUFFIX,samercheers.com
-- IP-CIDR,43.161.0.0/16,no-resolve
+#- DOMAIN-SUFFIX,samercheers.com
+#- IP-CIDR,43.161.0.0/16,no-resolve
 #网易云信
 - DOMAIN-SUFFIX,netease.im
 - DOMAIN-SUFFIX,yunxinfw.com
