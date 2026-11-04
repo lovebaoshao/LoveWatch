@@ -45,6 +45,8 @@ payload:
 #网易云信
 - DOMAIN-SUFFIX,netease.im
 - DOMAIN-SUFFIX,yunxinfw.com
+#搜狗輸入法
+- DOMAIN-SUFFIX,sogou.com
 
 
 
