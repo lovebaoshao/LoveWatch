@@ -47,6 +47,8 @@ payload:
 - DOMAIN-SUFFIX,yunxinfw.com
 #搜狗輸入法
 - DOMAIN-SUFFIX,sogou.com
+#騰訊
+- DOMAIN-SUFFIX,tencent.com
 
 
 
