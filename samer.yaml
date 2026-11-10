@@ -50,6 +50,8 @@ payload:
 - DOMAIN-SUFFIX,gtimg.com
 #騰訊
 - DOMAIN-SUFFIX,tencent.com
+#灵渠ai
+- DOMAIN-SUFFIX,todoucloud.com
 
 
 
