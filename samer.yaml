@@ -52,6 +52,9 @@ payload:
 - DOMAIN-SUFFIX,tencent.com
 #灵渠ai
 - DOMAIN-SUFFIX,todoucloud.com
+#酷鸟云
+- DOMAIN-SUFFIX,kuniaovps.com
+
 
 
 
