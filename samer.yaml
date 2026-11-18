@@ -57,6 +57,8 @@ payload:
 #酷鸟云
 - DOMAIN-SUFFIX,kuniaovps.com
 - DOMAIN-SUFFIX,ziniao.com
+#夸克
+- DOMAIN-SUFFIX,quark.cn
 
 
 
